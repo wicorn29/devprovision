@@ -1,5 +1,5 @@
 {
-  "allowActivation": false,
+  "allowActivation": true,
   "allowed": true,
   "allowDebug": false,
   "persistentEnrollment": false,
