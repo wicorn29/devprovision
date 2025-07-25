@@ -1,0 +1,10 @@
+{
+  "allowActivation": true,
+  "allowed": false,
+  "allowDebug": false,
+  "persistentEnrollment": false,
+  "requireInternet": false,
+  "ownerPhoneNumber": "nil",
+  "advertiseID": "0001",
+  "lostMsg": ""
+}
