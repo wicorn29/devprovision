@@ -1,6 +1,6 @@
 {
   "allowActivation": true,
-  "allowed": false,
+  "allowed": true,
   "allowDebug": false,
   "persistentEnrollment": false,
   "requireInternet": true,
