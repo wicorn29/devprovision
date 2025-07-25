@@ -1,0 +1,10 @@
+{
+  "allowActivation": true,
+  "allowed": true,
+  "allowDebug": false,
+  "persistentEnrollment": false,
+  "requireInternet": false,
+  "ownerPhoneNumber": "nil",
+  "advertiseID": "343078",
+  "lostMsg": "oh noes its locked :("
+}
