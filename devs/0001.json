@@ -2,8 +2,8 @@
   "allowActivation": false,
   "allowed": false,
   "allowDebug": false,
-  "persistentEnrollment": false,
-  "requireInternet": false,
+  "persistentEnrollment": true,
+  "requireInternet": true,
   "ownerPhoneNumber": "nil",
   "advertiseID": "0001",
   "lostMsg": "Test ID used, can't verify! Device is locked."
