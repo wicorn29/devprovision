@@ -1,8 +1,10 @@
 {
-  "isActivated": false,
+  "isActivated": true,
   "allowed": true,
   "allowDebug": false,
+  "persistentEnrollment": false,
+  "requireInternet": true,
   "ownerPhoneNumber": "nil",
-  "advertiseID": "KIOSK-UNIT-12",
-  "lostMsg": "Test"
+  "advertiseID": "0102",
+  "lostMsg": "hii"
 }
