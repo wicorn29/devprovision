@@ -6,5 +6,5 @@
   "requireInternet": false,
   "ownerPhoneNumber": "nil",
   "advertiseID": "0001",
-  "lostMsg": "nah lil bro"
+  "lostMsg": "Enrollment critical failure! Device is locked."
 }
