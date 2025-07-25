@@ -1,0 +1,8 @@
+{
+  "isActivated": false,
+  "allowed": true,
+  "allowDebug": false,
+  "ownerPhoneNumber": "nil",
+  "advertiseID": "KIOSK-UNIT-12",
+  "lostMsg": "Test"
+}
