@@ -2,7 +2,7 @@
   "allowActivation": true,
   "allowed": true,
   "allowDebug": false,
-  "persistentEnrollment": false, // requireInternet will be set to true, overriding the key requireInternet.
+  "persistentEnrollment": false,
   "requireInternet": true,
   "ownerPhoneNumber": "nil",
   "advertiseID": "0102",
