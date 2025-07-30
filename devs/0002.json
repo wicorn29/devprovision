@@ -1,0 +1,10 @@
+{
+  "allowActivation": true,
+  "allowed": false,
+  "allowDebug": false,
+  "persistentEnrollment": true,
+  "requireInternet": true,
+  "ownerPhoneNumber": "nil",
+  "advertiseID": "Strict Test ID",
+  "lostMsg": "Test ID used, can't verify! Device is locked."
+}
